@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<html lang="en-US">
+<htmp lang="kr">
+
+  <head>
+    <title>페이지 제목</title>
+
+  </head>
+
+
+  <body>
+    <p>이것은 단락입니다</p>
+    <p>이것은 또 다른단락입니다</p>
+
+    <h1>제목입니다</h1>
+    <h2>My first heading</h2>
+
+    <a href="https://www.w3schoos.com">This is a w3schools의 link</a>
+
+    <img src="w3schools.jpg" alt="W3schools.com" witdth="104" height="142">
+
+    <p>이것은 <br> paragraph with a line break.</p>
+
+
+    <a href="https://www.w3schools.com">Visit W3Schools</a>
+
+    <img src="img_girl.jpg">
+
+    <img src="img_girl.jpg" witdh="500" height="600">
+
+    <img src="img_girl.jpg" alt="Girl with a jacket">
+
+    <img src="img_typo.jpg" alt="Girl with a jacket">
+
+    <p style="color:red;">This is a red paragraph</p>
+
+    <p title="I'm a tooltip">This is a paragraph</p>
+
+    <a href="https:www.w3schools.com/html/">Visit our HTML tutorial</a>
+
+    <p title=About W3Schools>
+
+    <p title='John "ShotGun" Nelson'>
+
+    <p title="John 'ShotGun' Nelson">
+
+
+    <h3>Heading 1</h3>
+    <h1 style="font-size:20px;">css속성 사용 제목 크기 조절</h1>
+
+    <h4>Heading 2</h4>
+    <h5>Heading 3</h5>
+    <h6>Heading 4</h6>
+    <h7>Heading 5</h7>
+
+    <p>this is a paragraph</p>
+    <p>this is another paragraph</p>
+
+    <p>
+      이것은 문장
+      많은 글을 적으며
+      문단을 띄워 쓸수도 있습니다
+    </p>
+
+    <p>
+      This paragraph
+      contains a lot of spaces
+      in the source code,
+      but the browser
+      ignores it.
+    </p>
+
+    <h1> this is heading 1</h1>
+    <p>this is some txt</p>
+    <hr>
+    <h2>this is heading / 글을 여기 적어보자 </h2>
+    <p>this is some other text</p>
+    <hr>
+
+    <p>this is<br>a paragraph<br>with line breaks</p>
+
+    <pre>
+
+내가 지금 쓴 글은 확인용이다
+      
+문장이 이어지는지 확인중이다(공백과 줄 바꿈 유지 가능하다)
+    
+    </pre>
+
+
+    <tagname style="property:value;">
+
+      <body style="background-color:powderblue;">
+        <p style="background-color:tomato;">이 문장은..토마토 색이야</p>
+        <h8>안녕 나는.. 파란 배경 확인중이야</h8>
+        <p>나야 </p>
+
+        <h9 style="color:blue;">이것은 파랑색이야</h9>
+        <p style="color:red;">이것은 문장이야</p>
+
+        <h9 style="font-fmaily:verdana;">이것은 제목이야</h9>
+        <p style="font-family:courier;">이것은 문장이야</p>
+
+        <h10 style="font-size:300%;">이것은 제목이야</h10>
+        <p style="font-size:160%;">이것은 문장이야</p>
+
+        <h11 style="text-align:center;">중앙 제목</h11>
+        <p style="text-align:center;">중앙 문단</p>
+
+        <b>이건 굵은 글자</b>
+
+        <strong>이것은 중요</strong>
+
+        <i>이것은 italic</i>
+
+        <em>이것은 강조</em>
+
+        <small>이것은 작은 글자</small>
+
+        <p>이것은 <mark>우유</mark>오늘</p>
+
+        <p>이것은 안사<mark>우유</mark>오늘은</p>
+
+        <p>내 최애 색은<del>blue</del>red</p>
+
+        <p>내 최애 색은<del>blue</del> <ins>red</ins>.</p>
+
+<p>이것은<sub>subscripted</sub>text.</p>
+
+        <p>this is <sup>superscripted</sup>text.</p>
+
+
+
+
+
+
+
+        
+<p>이것은 웹사이트에서 인용한 것이다:</p>
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+
+  나는 60세로..
+
+  내용
+
+  끝난다..
+</blockquote>
+
+
+<p>목표는:<q>나는 자연에서 태어나..</q></p>
+
+<p>이것은~<add title="world health organization">who</addr>was founded in 1948</p>
+
+        
+
+        
+      </body>
+
+
+  </body>
+
+</html>
